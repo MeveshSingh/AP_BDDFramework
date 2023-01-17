@@ -1,0 +1,22 @@
+Request method:	POST
+Request URI:	https://api.github.com/user/repos
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Sample1",
+    "description": "Sample 1 Repository created by API",
+    "homepage": "https://github.com",
+    "has_issues": false,
+    "has_projects": false,
+    "has_wiki": false,
+    "private": false
+}

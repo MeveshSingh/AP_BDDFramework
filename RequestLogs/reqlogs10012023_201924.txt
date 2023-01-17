@@ -1,0 +1,22 @@
+Request method:	PATCH
+Request URI:	https://api.github.com/repos/prafulp1030/Sample6
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "demo110",
+    "description": null,
+    "homepage": null,
+    "has_issues": false,
+    "has_projects": false,
+    "has_wiki": false,
+    "private": false
+}

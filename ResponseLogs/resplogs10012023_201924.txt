@@ -1,0 +1,159 @@
+HTTP/1.1 200 OK
+Server: GitHub.com
+Date: Tue, 10 Jan 2023 14:49:25 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Cache-Control: private, max-age=60, s-maxage=60
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+ETag: W/"29ed3a069020a64cf03bb961ae8189cbe32cb421877c6eefcaa4adf5af39ed69"
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete:packages, delete_repo, gist, notifications, project, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: 
+X-GitHub-Media-Type: github.v3; format=json
+x-github-api-version-selected: 2022-11-28
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4982
+X-RateLimit-Reset: 1673363939
+X-RateLimit-Used: 18
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+Content-Encoding: gzip
+X-GitHub-Request-Id: 1269:1CAD:16BBE7:1AC58C:63BD7AF4
+
+{
+    "id": 587349871,
+    "node_id": "R_kgDOIwI_bw",
+    "name": "demo110",
+    "full_name": "prafulp1030/demo110",
+    "private": false,
+    "owner": {
+        "login": "prafulp1030",
+        "id": 122210735,
+        "node_id": "U_kgDOB0jJrw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/122210735?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/prafulp1030",
+        "html_url": "https://github.com/prafulp1030",
+        "followers_url": "https://api.github.com/users/prafulp1030/followers",
+        "following_url": "https://api.github.com/users/prafulp1030/following{/other_user}",
+        "gists_url": "https://api.github.com/users/prafulp1030/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/prafulp1030/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/prafulp1030/subscriptions",
+        "organizations_url": "https://api.github.com/users/prafulp1030/orgs",
+        "repos_url": "https://api.github.com/users/prafulp1030/repos",
+        "events_url": "https://api.github.com/users/prafulp1030/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/prafulp1030/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/prafulp1030/demo110",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/prafulp1030/demo110",
+    "forks_url": "https://api.github.com/repos/prafulp1030/demo110/forks",
+    "keys_url": "https://api.github.com/repos/prafulp1030/demo110/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/prafulp1030/demo110/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/prafulp1030/demo110/teams",
+    "hooks_url": "https://api.github.com/repos/prafulp1030/demo110/hooks",
+    "issue_events_url": "https://api.github.com/repos/prafulp1030/demo110/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/prafulp1030/demo110/events",
+    "assignees_url": "https://api.github.com/repos/prafulp1030/demo110/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/prafulp1030/demo110/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/prafulp1030/demo110/tags",
+    "blobs_url": "https://api.github.com/repos/prafulp1030/demo110/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/prafulp1030/demo110/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/prafulp1030/demo110/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/prafulp1030/demo110/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/prafulp1030/demo110/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/prafulp1030/demo110/languages",
+    "stargazers_url": "https://api.github.com/repos/prafulp1030/demo110/stargazers",
+    "contributors_url": "https://api.github.com/repos/prafulp1030/demo110/contributors",
+    "subscribers_url": "https://api.github.com/repos/prafulp1030/demo110/subscribers",
+    "subscription_url": "https://api.github.com/repos/prafulp1030/demo110/subscription",
+    "commits_url": "https://api.github.com/repos/prafulp1030/demo110/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/prafulp1030/demo110/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/prafulp1030/demo110/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/prafulp1030/demo110/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/prafulp1030/demo110/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/prafulp1030/demo110/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/prafulp1030/demo110/merges",
+    "archive_url": "https://api.github.com/repos/prafulp1030/demo110/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/prafulp1030/demo110/downloads",
+    "issues_url": "https://api.github.com/repos/prafulp1030/demo110/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/prafulp1030/demo110/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/prafulp1030/demo110/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/prafulp1030/demo110/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/prafulp1030/demo110/labels{/name}",
+    "releases_url": "https://api.github.com/repos/prafulp1030/demo110/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/prafulp1030/demo110/deployments",
+    "created_at": "2023-01-10T14:49:21Z",
+    "updated_at": "2023-01-10T14:49:25Z",
+    "pushed_at": "2023-01-10T14:49:22Z",
+    "git_url": "git://github.com/prafulp1030/demo110.git",
+    "ssh_url": "git@github.com:prafulp1030/demo110.git",
+    "clone_url": "https://github.com/prafulp1030/demo110.git",
+    "svn_url": "https://github.com/prafulp1030/demo110",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": false,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+    },
+    "allow_squash_merge": true,
+    "allow_merge_commit": true,
+    "allow_rebase_merge": true,
+    "allow_auto_merge": false,
+    "delete_branch_on_merge": false,
+    "allow_update_branch": false,
+    "use_squash_pr_title_as_default": false,
+    "squash_merge_commit_message": "COMMIT_MESSAGES",
+    "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+    "merge_commit_message": "PR_TITLE",
+    "merge_commit_title": "MERGE_MESSAGE",
+    "security_and_analysis": {
+        "secret_scanning": {
+            "status": "disabled"
+        },
+        "secret_scanning_push_protection": {
+            "status": "disabled"
+        }
+    },
+    "network_count": 0,
+    "subscribers_count": 1
+}
